@@ -35,14 +35,14 @@
   <p align="center">
     Simple script for displaying weather information on the <a href="https://shop.pimoroni.com/products/scroll-phat-hd" target="_blank">scroll pHAT HD</a>
     <br />
-    <a href="https://github.com/cr45hmurphy/weather"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/cr45hmurphy/scrollpHATHD_weather"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href=https://github.com/cr45hmurphy/weather>View Demo</a>
+    <a href=https://github.com/cr45hmurphy/scrollpHATHD_weather>View Demo</a>
     ·
-    <a href=https://github.com/cr45hmurphy/weather">Report Bug</a>
+    <a href=https://github.com/cr45hmurphy/scrollpHATHD_weather">Report Bug</a>
     ·
-    <a href=https://github.com/cr45hmurphy/weather>Request Feature</a>
+    <a href=https://github.com/cr45hmurphy/scrollpHATHD_weather>Request Feature</a>
   </p>
 </p>
 
@@ -96,7 +96,7 @@ To get a local copy up and running follow these simple steps.
 
 Clone the repo
    ```sh
-   git clone https://github.com/cr45hmurphy/weather.git
+   git clone https://github.com/cr45hmurphy/scrollpHATHD_weather.git
    ```
 
 <!-- LICENSE -->
@@ -110,7 +110,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Dade Murphy - cr45hmurphy@gmail.com
 
-Project Link: [https://github.com/cr45hmurphy/weather](https://github.com/cr45hmurphy/weather)
+Project Link: [https://github.com/cr45hmurphy/scrollpHATHD_weather](https://github.com/cr45hmurphy/scrollpHATHD_weather)
 
 
 
