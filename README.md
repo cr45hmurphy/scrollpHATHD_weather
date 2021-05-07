@@ -126,13 +126,13 @@ Project Link: [https://github.com/cr45hmurphy/scrollpHATHD_weather](https://gith
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/cr45hmurphy/scrollpHATHD_weather.svg?style=for-the-badge
+[contributors-url]: https://github.com/cr45hmurphy/scrollpHATHD_weather/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/cr45hmurphy/scrollpHATHD_weather.svg?style=for-the-badge
+[forks-url]: https://github.com/cr45hmurphy/scrollpHATHD_weather/network/members
+[stars-shield]: https://img.shields.io/github/stars/cr45hmurphy/scrollpHATHD_weather.svg?style=for-the-badge
+[stars-url]: https://github.com/cr45hmurphy/scrollpHATHD_weather/stargazers
+[issues-shield]: https://img.shields.io/github/issues/cr45hmurphy/scrollpHATHD_weather.svg?style=for-the-badge
+[issues-url]: https://github.com/cr45hmurphy/scrollpHATHD_weather/issues
+[license-shield]: https://img.shields.io/github/license/cr45hmurphy/scrollpHATHD_weather.svg?style=for-the-badge
 [license-url]: https://github.com/cr45hmurphy/scrollpHATHD_weather/blob/master/LICENSE
