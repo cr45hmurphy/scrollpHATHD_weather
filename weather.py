@@ -12,6 +12,11 @@ import json         # used to parse Wunderground JSON data
 import time         # returns time values
 import os
 
+# Uncomment the below if your display is upside down
+#   (e.g. if you're using it in a Pimoroni Scroll Bot)
+scrollphathd.rotate(degrees=180)
+
+
 # Define weather station. 
 # TODO: add capability for user to specify preferred station.
 WTHR_STATION = "KSJT"
@@ -24,7 +29,7 @@ AVG_TEMP_RESET_INTERVAL = 60
 
 # Flags used to specify whether to display actual or "feels like" temperature.
 # Change CURRENT_TEMP_DISPLAY to 1 for actual temp and anything other than 1 for feels like temperature
-CURRENT_TEMP_DISPLAY = 0  # feels like
+CURRENT_TEMP_DISPLAY = 1  # feels like
 
 # Display settings
 BRIGHT = 0.2
@@ -138,7 +143,7 @@ def get_weather_data():
         #print("Feels like", feels_like, TEMP_SCALE)
         print("Wind speed: ", wind_speed)
         print("Wind gusts: ", wind_gusts)
-        print("Feels like string: [", fl_str, "]")
+        #print("Feels like string: [", fl_str, "]")
         print("Temperature string: [", actual_str, "]")
 
     # If you want to play around with displaying other measurements, here are a few you can use. You can view the entire menu by pasting the wunderground
