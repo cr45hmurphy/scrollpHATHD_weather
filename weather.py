@@ -12,6 +12,9 @@ import json         # used to parse Wunderground JSON data
 import time         # returns time values
 import os
 
+# Define weather station. 
+# TODO: add capability for user to specify preferred station.
+WTHR_STATION = "KSJT"
 
 # Weather polling interval (seconds). Free Wunderground API accounts allow 500 calls/day, so min interval of 172 (every ~2.88 min), assuming you're only making 1 call at a time.
 POLL_INTERVAL = 180
@@ -250,7 +253,7 @@ def display_temp_value():
 print("'Live' temperature and wind display using Wunderground data.")
 print("Uses Raspberry Pi-W and Scrollphathd display. Written by Mark Ehr, January 2018")
 print("Press Ctrl-C to exit")
-print("Current weather station: ", WGND_STATION)
+print("Current weather station: ", WTHR_STATION)
 
 # Initial weather data poll and write to display
 get_weather_data()
