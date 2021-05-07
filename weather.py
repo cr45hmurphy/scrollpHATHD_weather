@@ -149,10 +149,10 @@ def get_weather_data():
     wind_dir = str(parsed_cond['properties']['windDirection']['value'])
 
     actual_str = actual_str + TEMP_SCALE  # remove unneeded trailing data and append temperature scale (C or F) to the end
-    feels_like_str = fl_str + TEMP_SCALE  # remove unneeded trailing data and append temperature scale (C or F) to the end
+    #feels_like_str = fl_str + TEMP_SCALE  # remove unneeded trailing data and append temperature scale (C or F) to the end
     if DEBUG:
         print("Actual str: ", actual_str)
-        print("Feels like str: ", feels_like_str)
+        #print("Feels like str: ", feels_like_str)
     return
 
 
